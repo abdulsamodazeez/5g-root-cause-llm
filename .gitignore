@@ -1,0 +1,12 @@
+# competition data - obtain from the Zindi challenge page (not redistributed)
+Data/
+
+# large model artifacts - the adapter lives on Hugging Face:
+# https://huggingface.co/abdulsamod/qwen3-4b-5g-root-cause
+sub/**/qwen3_rca_lora.zip
+sub/**/qwen3_rca_lora/
+
+# local cruft
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
