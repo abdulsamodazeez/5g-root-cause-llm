@@ -11,7 +11,7 @@ tags:
   - edge-ai
 ---
 
-# Qwen3-4B — 5G Root-Cause Diagnosis (LoRA adapter)
+# Qwen3-4B: 5G Root-Cause Diagnosis (LoRA adapter)
 
 A LoRA adapter that turns [Qwen3-4B](https://huggingface.co/Qwen/Qwen3-4B) into a
 5G network fault diagnostician: given verbalized measurements computed from raw
@@ -19,7 +19,7 @@ drive-test telemetry (distances, antenna coverage geometry, neighbor signal gaps
 scheduling statistics), it identifies and explains the root cause of a throughput
 collapse.
 
-**Benchmark: 99.1% accuracy (855/863 held-out fault scenarios) — 2nd place of 130
+**Benchmark: 99.1% accuracy (855/863 held-out fault scenarios), 2nd place of 130
 teams, Cassava AI Root Cause Detective challenge (Deep Learning Indaba 2026).**
 
 The design principle: a 4B model cannot reliably compute over raw telemetry tables
