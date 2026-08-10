@@ -106,7 +106,7 @@ README.pdf                      the reviewed solution documentation
 
 Validated by independent code review (reproducibility, no rule-based answer
 generation, no external data). Full journey, including the approaches that failed
-and why, in the accompanying write-up. *(blog link goes here)*
+and why, in the [accompanying write-up](https://abdulsamodazeez.hashnode.dev/listening-to-the-network-teaching-a-4b-model-to-diagnose-5g-faults).
 
 ## License
 
